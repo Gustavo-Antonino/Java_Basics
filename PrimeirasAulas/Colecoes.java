@@ -8,7 +8,7 @@ public class Colecoes {
         //Map e HashMap
         Map<String, Integer> notas = new HashMap<>();
         notas.put("Gustavo", 10);
-        notas.put("Vini", 10);
+        notas.put("Vini", 11);
         notas.put("Elias", 9);
 
         var nota = notas.get("Gustavo");
