@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Excecoes",
+            "request": "launch",
+            "mainClass": "excecoes.Excecoes",
+            "projectName": "CursoRockseatJava_2f060a99"
+        },
+        {
+            "type": "java",
+            "name": "TesteDeVeiculo",
+            "request": "launch",
+            "mainClass": "veiculo.TesteDeVeiculo",
+            "projectName": "CursoRockseatJava_2f060a99"
+        },
+        {
+            "type": "java",
             "name": "TesteDePessoa",
             "request": "launch",
             "mainClass": "pessoa.TesteDePessoa",
